@@ -41,7 +41,7 @@ src/analyze_sentiment.py: Main script for sentiment analysis.
 ##Results
 The results of the sentiment analysis, including visualizations and sentiment scores, can be found in the results/ directory.
 
-##Visualizing Sentiment Scores
+Visualizing Sentiment Scores
 The following code snippet shows how to visualize the sentiment scores:
 
 import matplotlib.pyplot as plt
