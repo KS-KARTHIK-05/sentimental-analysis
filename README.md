@@ -17,6 +17,7 @@ Clone the repository and install dependencies:
 git clone https://github.com/your-username/sentiment-analysis-project.git
 cd sentiment-analysis-project
 pip install -r requirements.txt
+.
 
 ## Usage
 Run the analysis by following the steps in the Jupyter notebooks or by executing the scripts in the src directory.
