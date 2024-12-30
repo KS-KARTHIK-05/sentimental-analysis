@@ -1,4 +1,4 @@
-# Sentiment Analysis Project
+# Sentimental Analysis Project
 
 ## Overview
 This project performs sentiment analysis on text data using VADER and RoBERTa models. The aim is to classify the sentiment of given texts into positive, negative, or neutral categories by leveraging both rule-based and machine learning approaches.
